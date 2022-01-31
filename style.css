@@ -1,0 +1,45 @@
+body {
+    background-color: #1475e3;
+    color: white;
+}
+
+#title {
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color:aquamarine;
+}
+
+.main_div {
+    background-color: #34e3c3;
+}
+
+.header_div {
+    background-color: #1475e3;
+}
+
+button {
+    margin-top: 30px;
+    letter-spacing: 2px;
+    box-shadow: 3px 3px 3px #ff4e33;
+}
+
+.div_footer {
+    color: white;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    background-color: #1475e3;
+    font-size: 20px;
+    text-shadow: 3px 3px 5px lightgrey;
+}
+
+img {
+    margin-bottom: 80px;
+}
+
+#resultLabel,
+#resultConfidence {
+    font-family: 'Pacifico', cursive;
+
+}
